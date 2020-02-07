@@ -1,0 +1,4 @@
+/etc/hostname
+
+hostnamectl set-hostname dmorrige
+echo "127.0.1.1 dmorrige" >> /etc/hosts

@@ -1,0 +1,2 @@
+passwd [new_user]
+ssh [new_user]@[IP]

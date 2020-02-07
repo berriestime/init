@@ -1,0 +1,18 @@
+traceroute: Warning: slash16.org has multiple addresses; using 54.192.98.223
+traceroute to slash16.org (54.192.98.223), 64 hops max, 52 byte packets
+ 1  192.168.20.1 (192.168.20.1)  1.512 ms  0.977 ms  0.999 ms
+ 2  192.168.2.9 (192.168.2.9)  0.336 ms  3.942 ms  0.343 ms //устройство связи с глобальной сетью
+ 3  217-67-187-49.in-addr.mastertelecom.ru (217.67.187.49)  2.284 ms  2.338 ms  3.208 ms
+ 4  mail.neoresurs.ru (217.67.176.130)  0.456 ms  0.426 ms  0.417 ms
+ 5  217-67-176-205.in-addr.mastertelecom.ru (217.67.176.205)  1.542 ms  1.374 ms  1.344 ms
+ 6  ae11-227.rt.mr.msk.ru.retn.net (87.245.253.69)  1.117 ms  1.094 ms  1.285 ms
+ 7  ae0-6.rt.irx.sto.se.retn.net (87.245.233.172)  23.880 ms  24.173 ms  23.725 ms
+ 8  gw-amazon.retn.net (87.245.249.29)  22.419 ms  26.923 ms  24.832 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  server-54-192-98-223.arn1.r.cloudfront.net (54.192.98.223)  20.461 ms  20.517 ms  22.773 ms

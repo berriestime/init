@@ -1,0 +1,2 @@
+systemctl status ssh
+/ect/init.d/ssh status
